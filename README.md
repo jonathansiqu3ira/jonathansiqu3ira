@@ -11,7 +11,7 @@ UX/UI Designer focado em **sistemas web** e **interfaces funcionais**. Formado e
 
 ---
 
-### 🧠 Domínio
+### Domínio
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="36" />
@@ -19,7 +19,7 @@ UX/UI Designer focado em **sistemas web** e **interfaces funcionais**. Formado e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="36" />
 </p>
 
-### 🚀 Estudando
+### Estudando
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36" />
