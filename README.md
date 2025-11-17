@@ -1,4 +1,4 @@
-# 🎨 Jonathan Siqueira
+# Jonathan Siqueira
 
 **`UX/UI Designer & Front-End Developer`**
 
