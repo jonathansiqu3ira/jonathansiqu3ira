@@ -7,7 +7,7 @@
 UX/UI Designer focado em **sistemas web** e **interfaces funcionais**. Formado em **Sistemas para Web**, atuo com **Figma**, **HTML**, **CSS** e **JavaScript**, criando experiências digitais com foco em **usabilidade** e **clareza visual**.   Atualmente estudando **JavaScript**, **TypeScript**, **React**, **Node.js**, **Ruby** e **Git** para integrar melhor design e código.  
 
 📍 São Paulo, Brasil  
-📸 Instagram: [@eujohntech](https://www.instagram.com/eujohntech)
+📸 Instagram: [@john.dsr](https://www.instagram.com/john.dsr)
 
 ---
 
