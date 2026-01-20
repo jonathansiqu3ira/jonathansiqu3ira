@@ -1,6 +1,6 @@
 # Jonathan Siqueira
 
-**`UX/UI Designer & Front-End Developer`**
+**`Design Technologist`**
 
 💡 *“Design e código são duas faces da mesma criação — um traduz o que o outro imagina.”*  
 
