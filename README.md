@@ -1,68 +1,72 @@
-# 👋 Hi, I’m John
+# 👋 Olá, eu sou o John
 
-Senior **Product Designer (UX/UI)** and **Design Technologist**.  
-I design interfaces and help build the systems behind them.
+Sou **Senior Product Designer (UX/UI)** e **Design Technologist**,  
+com mais de **10 anos de experiência como designer**, atualmente evoluindo minha carreira para **Software Engineer**.
 
-My work lives at the intersection of **UX, front-end, and design systems**.  
-Less presentation, more products that actually work in production.
-
----
-
-## 🧠 How I think
-
-- UX doesn’t end in Figma  
-- Interfaces are shaped by code decisions  
-- Design must respect constraints: performance, accessibility, maintenance  
-- Seniority is knowing *when* to simplify and *why*
+Sempre trabalhei criando interfaces que precisam funcionar no mundo real.  
+Hoje, aprofundo isso me aproximando ainda mais do **código, da arquitetura e do front-end**.
 
 ---
 
-## 🧩 What I work with
+## 🧠 Como eu penso
 
-### UX / Product
-- UX Research & usability testing  
-- Information Architecture  
-- Interface design & prototyping (Figma)  
-- Design Systems (tokens, components, governance)
+- UX não termina no Figma  
+- Decisões de design viram experiência através do código  
+- Interfaces são moldadas por performance, acessibilidade e manutenção  
+- Senioridade é saber *quando*, *por que* e *como* simplificar
 
-### Front-end
-- UI-focused front-end development  
-- Scalable component architecture  
-- Strong collaboration with engineering teams
+---
 
-**Stack**  
+## 🧩 Trajetória profissional
+
+Ao longo de mais de uma década, atuei como **Product Designer**, trabalhando com:
+- produtos digitais
+- interfaces complexas
+- design systems orientados à escala e consistência
+
+Durante esse percurso, sempre estive muito próximo de times de engenharia.  
+A evolução para **Software Engineer** não é uma troca de carreira,  
+mas uma **progressão natural** para projetar, construir e entregar soluções completas.
+
+---
+
+## ⚙️ Foco técnico atual
+
+Estou desenvolvendo habilidades sólidas em **engenharia de front-end**,  
+com foco em qualidade de UI, escalabilidade e integração com produto.
+
+**Stack**
 `React · TypeScript · Next.js · Tailwind CSS · Styled Components · Storybook`
 
-**Tools**  
-`Figma · REST APIs · Git · GitHub`
+**Ferramentas**
+`Figma · APIs REST · Git · GitHub`
 
 ---
 
-## 📦 What you’ll find here
+## 📦 O que você vai encontrar aqui
 
-- UI components and experiments  
-- Design system structures and tokens  
-- Front-end patterns focused on usability  
-- Small projects connecting design and code  
-- Practical solutions over demo-driven code
-
----
-
-## 🧱 Background
-
-Over **10 years** working with digital products,  
-bridging **design, engineering, and business**.
-
-I’ve worked both in product teams and as a freelancer,  
-which shaped a strong sense of ownership, decision-making, and real-world impact.
+- Componentes de interface e experimentos de front-end  
+- Estruturas de design system e tokens  
+- Padrões que conectam design e código  
+- Soluções práticas, pensadas para produção
 
 ---
 
-## 📫 Contact
+## 🧱 Como eu trabalho
 
-- LinkedIn: [https://www.linkedin.com/in/jonathansiqueira](https://www.linkedin.com/in/jonathansiqueira/)
-- Portfolio: [https://designbyjonathan.pro](https://designbyjonathan.pro/)
+- Ponte forte entre design e engenharia  
+- Comunicação clara e visão técnica  
+- Foco em soluções sustentáveis e escaláveis  
+- Decisões de design alinhadas à viabilidade técnica
 
 ---
 
-> I care about clarity, consistency, and products that ship.
+## 📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/seu-link  
+- Portfólio: https://seu-portfolio.com
+
+---
+
+> Mais de 10 anos desenhando produtos.  
+> Agora, construindo cada vez mais perto do código.
