@@ -61,12 +61,5 @@ com foco em qualidade de UI, escalabilidade e integração com produto.
 
 ---
 
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/seu-link  
-- Portfólio: https://seu-portfolio.com
-
----
-
 > Mais de 10 anos desenhando produtos.  
 > Agora, construindo cada vez mais perto do código.
