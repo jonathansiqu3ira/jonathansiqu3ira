@@ -36,7 +36,7 @@ JavaScript · TypeScript · CSS · React · Next.js
 ## Tools
 
 ```bash
-Figma · Git · GitHub · REST APIs · Framer · Claude Code · Codex
+Figma · Git · GitHub · REST APIs · Framer · Claude Code · Codex · Opencode  ·  Openpencil
 ```
 
 ---
